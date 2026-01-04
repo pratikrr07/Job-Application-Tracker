@@ -2,6 +2,17 @@
 
 A full-stack web application for tracking job applications, monitoring progress, and viewing application statistics.
 
+## Screenshots
+
+### Dashboard with Job Applications
+View all your tracked job applications with status, company, and date information. Filter by status and manage applications in one place.
+![Dashboard](screenshots/dashboard.png)
+
+### Statistics & Conversion Metrics
+Real-time analytics showing total applications, status breakdown, and conversion rates for interviews, offers, and acceptances.
+![Job Statistics](screenshots/job-stats.png)
+
+
 ## Features
 
 - Track job applications with company, role, and status
